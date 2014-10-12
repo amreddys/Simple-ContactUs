@@ -43,7 +43,7 @@
 			<br>
 			<div class="input-group input-group-lg">
 				<span class="input-group-addon glyphicon glyphicon-earphone"></span>
-					<input type="text" name="mobile" class="form-control" placeholder="Your Mobile">
+					<input type="text" name="number" class="form-control" placeholder="Your Mobile">
 			</div>
 			<br>
 			<div class="input-group input-group-lg">
